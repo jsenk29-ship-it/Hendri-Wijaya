@@ -1,0 +1,6 @@
+{
+  "name": "Portal Idealogika",
+  "description": "Portal Berita, Opini, dan Warta Independen Pers Mahasiswa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
